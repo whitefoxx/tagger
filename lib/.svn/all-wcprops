@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/101/trunk/paoding-analysis/lib
+END
+lucene-highlighter-2.2.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/30/trunk/paoding-analysis/lib/lucene-highlighter-2.2.0.jar
+END
+junit.jar
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/30/trunk/paoding-analysis/lib/junit.jar
+END
+lucene-core-2.2.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/30/trunk/paoding-analysis/lib/lucene-core-2.2.0.jar
+END
+lucene-analyzers-2.2.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/101/trunk/paoding-analysis/lib/lucene-analyzers-2.2.0.jar
+END
+commons-logging.jar
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/30/trunk/paoding-analysis/lib/commons-logging.jar
+END
